@@ -12,6 +12,6 @@
 ![img](https://github.com/Alan-alan-Lin/Data_Mining_2019_HW8/blob/main/HW_8/Python_16.JPG)  
 ![img](https://github.com/Alan-alan-Lin/Data_Mining_2019_HW8/blob/main/HW_8/Python_17.JPG)  
 5.以 10 Folds cross-validation 進行 AdaBoost , n_estimators =10，得到的準確率約為0.8859  
-基本上使用進行 Ensemble learning 的分類器去進行資料分類得到的準確度都較高，除了 AdaBoost：0.8859 < Decision Tree：0.8947，剩下Bagging(0.9394)和 RandomForest(0.9499)準確率都超過 9 成  
 ![img](https://github.com/Alan-alan-Lin/Data_Mining_2019_HW8/blob/main/HW_8/Python_18.JPG)  
 ![img](https://github.com/Alan-alan-Lin/Data_Mining_2019_HW8/blob/main/HW_8/Python_19.JPG)  
+基本上使用進行 Ensemble learning 的分類器去進行資料分類得到的準確度都較高，除了 AdaBoost：0.8859 < Decision Tree：0.8947，剩下Bagging(0.9394)和 RandomForest(0.9499)準確率都超過 9 成  
